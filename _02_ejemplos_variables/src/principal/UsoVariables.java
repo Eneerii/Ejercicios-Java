@@ -4,7 +4,7 @@ public class UsoVariables {
 
 	public static void main(String[] args) {
 		int data; //declarar
-		data=230; //asignado
+		data=150; //asignado
 		
 		int myvar=10;
 		
